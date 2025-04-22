@@ -93,14 +93,15 @@ li:hover {
 }
 
 .BigImg {
-    width: 1100px;
+    width: 1180px;
     height: 500px;
     border-radius: 15px;
 }
 
 h1 {
     color: white;
-    position: absolute;
+       position: absolute;
+
     font-size: 60px;
     padding-left: 40px;
     margin-top: -470px;
@@ -109,19 +110,40 @@ h1 {
 
 .BlackDiv {
     border: 2px solid black;
-    height: 200px;
+    height: 220px;
     width: 600px;
     border-radius: 15px;
-    position: absolute;
+    position: relative;
     background-color: rgba(0, 0, 0, 0.781);
     margin-left: 30px;
-    bottom: 128px;
-}
-#Box2 {
-    color: black;
-padding-top: 600px;
-font-family: "My-Font";
-font-size: 40px;
-padding-left: 500px;
+    bottom: 250px;
+   
 }
 
+#Box2 {
+    color: black;
+    padding-top: 340px;
+    font-family: "My-Font";
+    font-size: 45px;
+    padding-left: 570px;
+   
+}
+
+.SrchImg {
+    height: 220px;
+    width: 600px;
+    border-radius: 15px;
+}
+.JoinUs {
+   
+    height: 350px;
+    width: 500px;
+   
+    position: relative;
+    top: -125px;
+    background-color: white;
+}
+.JoinImg {
+    height: 350px;
+    width: 500px;
+}
