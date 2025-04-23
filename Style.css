@@ -100,11 +100,12 @@ li:hover {
 
 h1 {
     color: white;
-       position: absolute;
+    position: absolute;
 
     font-size: 60px;
     padding-left: 40px;
-    margin-top: -470px;
+    margin-top: -430px;
+    
     font-family: "My-Font";
 }
 
@@ -117,7 +118,7 @@ h1 {
     background-color: rgba(0, 0, 0, 0.781);
     margin-left: 30px;
     bottom: 250px;
-   
+
 }
 
 #Box2 {
@@ -126,7 +127,7 @@ h1 {
     font-family: "My-Font";
     font-size: 45px;
     padding-left: 570px;
-   
+    padding-top: 350px;
 }
 
 .SrchImg {
@@ -134,16 +135,84 @@ h1 {
     width: 600px;
     border-radius: 15px;
 }
+
 .JoinUs {
-   
+
     height: 350px;
     width: 500px;
-   
+
     position: relative;
-    top: -125px;
+    top: -410px;
     background-color: white;
 }
+
 .JoinImg {
     height: 350px;
     width: 500px;
+}
+
+.Line1Heading {
+
+    padding-left: 600px;
+    font-family: "My-Font";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Line1Det {
+    padding-left: 600px;
+    font-family: "My-Font";
+    font-weight: light;
+  
+}
+
+.Line2Heading {
+    padding-top: 30px;
+    padding-left: 600px;
+    font-family: "My-Font";
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+.Line2Det {
+    padding-left: 600px;
+    font-family: "My-Font";
+    font-weight: light;
+}
+
+.Line3Heading {
+    padding-top: 30px;
+    padding-left: 600px;
+    font-family: "My-Font";
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+.Line3Det {
+    padding-left: 600px;
+    font-family: "My-Font";
+    font-weight: light;
+}
+.Edit1 {
+    position: relative;
+    left: 550px;
+    top: 30px;
+}
+.Edit2 {
+    position: relative;
+    left: 550px;
+    top: 35px;
+}
+.Edit3 {
+    position: relative;
+    left: 550px;
+    top: 35px;
+}
+.Box2 {
+   
+    position: relative;
+    top: -100px;
 }
