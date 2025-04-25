@@ -102,10 +102,10 @@ h1 {
     color: white;
     position: absolute;
 
-    font-size: 60px;
+    font-size: 50px;
     padding-left: 40px;
-    margin-top: -430px;
-    
+    margin-top: -440px;
+
     font-family: "My-Font";
 }
 
@@ -147,7 +147,7 @@ h1 {
 }
 
 .JoinImg {
-    height: 350px;
+    height: 410px;
     width: 500px;
 }
 
@@ -163,7 +163,7 @@ h1 {
     padding-left: 600px;
     font-family: "My-Font";
     font-weight: light;
-  
+
 }
 
 .Line2Heading {
@@ -172,7 +172,7 @@ h1 {
     font-family: "My-Font";
     font-size: 20px;
     font-weight: bold;
-   
+
 }
 
 .Line2Det {
@@ -196,23 +196,220 @@ h1 {
     font-family: "My-Font";
     font-weight: light;
 }
+
 .Edit1 {
     position: relative;
     left: 550px;
     top: 30px;
 }
+
 .Edit2 {
     position: relative;
     left: 550px;
     top: 35px;
 }
+
 .Edit3 {
     position: relative;
     left: 550px;
     top: 35px;
 }
+
 .Box2 {
-   
+
     position: relative;
     top: -100px;
+}
+
+.Button2 {
+    background-color: rgba(0, 128, 0, 0.87);
+    color: white;
+    border: white;
+    border-radius: 10px;
+    font-size: 18px;
+    height: 35px;
+    width: 180px;
+    position: relative;
+    top: -400px;
+    left: 550px;
+    font-family: "My-Font";
+
+}
+
+.Button3 {
+    background-color: white;
+    color: green;
+    border: green 1px solid;
+    border-radius: 10px;
+    font-size: 18px;
+    height: 35px;
+    width: 180px;
+    position: relative;
+    top: -400px;
+    left: 565px;
+    font-family: "My-Font";
+}
+
+.Button2:hover {
+    background-color: rgb(8, 218, 8);
+    color: white;
+    border: white;
+    cursor: pointer;
+
+}
+
+.Button3:hover {
+    background-color: white;
+    color: rgb(52, 199, 52);
+    border: rgb(52, 199, 52) 1px solid;
+    cursor: pointer;
+}
+
+.Pg2Heading {
+    color: black;
+    padding-top: 100px;
+    position: relative;
+    right: 38px;
+    font-weight: 500;
+    font-family: "My-Font";
+    font-size: 40px;
+}
+
+.Pg2Heading2 {
+    font-weight: 400;
+}
+
+.Link2 {
+    color: rgba(0, 128, 0, 0.671);
+}
+
+.Link2:hover {
+    cursor: pointer;
+}
+
+.Card1 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+
+    background-color: rgba(231, 241, 224, 0.267)
+}
+
+.Card2 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-left: 330px;
+    margin-top: -150px;
+
+}
+
+.Card3 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-left: 660px;
+    margin-top: -150px;
+}
+
+.Card4 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-left: 990px;
+    margin-top: -150px;
+}
+
+.Card5 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-top: 40px;
+}
+
+.Card6 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-left: 330px;
+    margin-top: -150px;
+}
+
+.Card7 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-left: 660px;
+    margin-top: -150px;
+}
+
+.Card8 {
+    border: 1px solid rgba(231, 241, 224, 0.267);
+    height: 150px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgba(231, 241, 224, 0.267);
+    margin-left: 990px;
+    margin-top: -150px;
+}
+
+.Card {
+    padding-left: 40px;
+    padding-top: 20px;
+    font-family: "My-Font";
+    font-size: 26px;
+    font-weight: 450;
+}
+
+.H3Card {
+    padding-left: 40px;
+    padding-top: 20px;
+    font-family: "My-Font";
+    font-size: 16px;
+    font-weight: 450;
+}
+.Card1:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card2:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card3:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card4:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card5:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card6:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card7:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
+}
+.Card8:hover {
+    cursor: pointer;
+    background-color: rgba(231, 241, 224, 0.664);
 }
